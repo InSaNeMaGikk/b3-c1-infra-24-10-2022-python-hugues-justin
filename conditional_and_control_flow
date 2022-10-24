@@ -1,0 +1,63 @@
+# Assign True or False as appropriate on the lines below!
+
+# Set this to True if 17 < 328 or to False if it is not.
+bool_one = True   # We did this one for you!
+
+# Set this to True if 100 == (2 * 50) or to False otherwise.
+bool_two = True
+
+# Set this to True if 19 <= 19 or to False if it is not.
+bool_three = True
+
+# Set this to True if -22 >= -18 or to False if it is not.
+bool_four = False
+
+# Set this to True if 99 != (98 + 1) or to False otherwise.
+bool_five = False
+
+---
+
+# Create comparative statements as appropriate on the lines below!
+
+# Make me true!
+bool_one = 3 < 5  # We already did this one for you!
+
+# Make me false!
+bool_two = 2 != 2
+
+# Make me true!
+bool_three = 3 == 3
+
+# Make me false!
+bool_four = 12 < 10
+
+# Make me true!
+bool_five = 3 > 1
+
+---
+
+bool_one = False and False
+
+bool_two = False and True
+
+bool_three = True and False
+
+bool_four = True and True
+
+bool_five = True and True
+
+---
+
+bool_one = True or False
+
+bool_two = True or False
+
+bool_three = False or False
+
+bool_four = True or True
+
+bool_five = False or False
+
+---
+
+
